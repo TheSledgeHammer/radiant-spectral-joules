@@ -2,7 +2,7 @@
 
 Source for an unreleased Minecraft Mod.
 
-The mode idea is based around the use of the Electromagentic Spectrum & Electromagentic Radiation to produce energy and drive various machines.
+The mode idea is based around the use of the Electromagentic Spectrum & Electromagentic Radiation to produce energy and phase transition of matter.
 
 It consists of two energy types Radiant Joules & Spectral Joules.
 
